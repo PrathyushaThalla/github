@@ -1,2 +1,2 @@
 # github
-stores all my files
+stores all my files.basic one
